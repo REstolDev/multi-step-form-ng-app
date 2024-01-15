@@ -45,9 +45,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/REstolSurf/multi-step-form-ng-app)
-- Live Site URL: [GitHub Pages](https://restolsurf.github.io/multi-step-form-ng-app)
+- Solution URL: [GitHub Repo](https://github.com/REstolDev/multi-step-form-ng-app)
+- Live Site URL: [GitHub Pages](https://restoldev.github.io/multi-step-form-ng-app)
 
+
+I developed the multi-step form project using Angular Material and  Reactive Forms. Building the project was a rewarding experience, but I faced challenges in managing the complexity of the form across multiple steps. Ensuring smooth navigation between steps and maintaining form state presented initial difficulties.
+
+While the majority of the code is clear, I have some uncertainty about the general structure and best practices for handling form validation and error messages efficiently. I'm also curious about optimizing the performance of the form as it scales.
 ### Built with
 
 - Semantic HTML5 markup
